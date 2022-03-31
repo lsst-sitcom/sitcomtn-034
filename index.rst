@@ -44,11 +44,36 @@
 
 .. TODO: Delete the note below before merging new content to the main branch.
 
-.. note::
+Introduction
+============
 
-   **This technote is not yet published.**
+This tech note compiles all work done by the SIT-Com image quality team.
 
-   Work repository for the SIT-Com Image Quality Team
+Team Description
+================
+
+The team description can be found at https://sitcomtn-017.lsst.io/
+
+Aux Tel Donut Analysis
+======================
+
+A donut analysis technique that can be used for wavefront sensor verification: https://sitcomtn-027.lsst.io
+
+Aux Tel Focus Model
+===================
+
+Study of the Aux Tel focus drift as a function of temperature: https://sitcomtn-028.lsst.io/
+
+Aux Tel Tracking analysis
+=========================
+
+An analysis of the Nov 2021 Aux Tel run: https://sitcomtn-021.lsst.io/
+
+
+
+
+
+
 
 .. Add content here.
 .. Do not include the document title (it's automatically added from metadata.yaml).
