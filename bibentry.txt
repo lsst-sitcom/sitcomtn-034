@@ -1,0 +1,9 @@
+% bibentry template for lsst.bib in https://github.com/lsst/lsst-texmf/blob/main/texmf/bibtex/bib/lsst.bib
+
+@DocuShare{SITCOMTN-034,
+   author = { Elana Urbach },
+    title = {Image Quality Team Work Repository},
+     year = 2022,
+    month = Mar,
+   handle = {SITCOMTN-034},
+      url = {https://sitcomtn-034.lsst.io } }
