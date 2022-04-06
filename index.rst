@@ -54,6 +54,11 @@ Team Description
 
 The team description can be found at https://sitcomtn-017.lsst.io/
 
+Operations Plan
+===============
+
+Operations plan for optimizing image quality: https://sitcomtn-036.lsst.io
+
 Aux Tel Donut Analysis
 ======================
 
