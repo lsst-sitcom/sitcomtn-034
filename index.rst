@@ -54,6 +54,12 @@ Team Description
 
 The team description can be found at https://sitcomtn-017.lsst.io/
 
+Image Quality Team Glossary
+===========================
+
+Glossary providing definitions for different image quality related terms, such as 'seeing,' as they are used in reports by this team.
+https://confluence.lsstcorp.org/pages/viewpage.action?spaceKey=LSSTCOM&title=proposed+glossary+for+image+quality
+
 Operations Plan
 ===============
 
