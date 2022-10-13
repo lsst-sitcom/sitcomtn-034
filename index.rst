@@ -60,6 +60,11 @@ Image Quality Team Glossary
 Glossary providing definitions for different image quality related terms, such as 'seeing,' as they are used in reports by this team.
 https://confluence.lsstcorp.org/pages/viewpage.action?spaceKey=LSSTCOM&title=proposed+glossary+for+image+quality
 
+Aux Tel Image Quality Budget Table
+==================================
+
+Table with measured AuxTel image quality values and analysis methods: https://confluence.lsstcorp.org/display/LSSTCOM/image+quality+budget+table
+
 Operations Plan
 ===============
 
@@ -80,8 +85,10 @@ Aux Tel Tracking analysis
 
 An analysis of the Nov 2021 Aux Tel run: https://sitcomtn-021.lsst.io/
 
+Aux Tel Fan Analysis
+====================
 
-
+Measurements of AuxTel vibrations as the AuxTel fan is turned on, with the dome slit open: https://sitcomtn-051.lsst.io/
 
 
 
