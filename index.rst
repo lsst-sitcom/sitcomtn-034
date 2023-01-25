@@ -75,6 +75,9 @@ Aux Tel Donut Analysis
 
 A donut analysis technique that can be used for wavefront sensor verification: https://sitcomtn-027.lsst.io
 
+A method to estimate uncorrected wavefront errors in AuxTel with the donut analysis: https://sitcomtn-042.lsst.io/
+
+
 Aux Tel Focus Model
 ===================
 
